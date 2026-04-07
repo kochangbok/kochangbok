@@ -2,9 +2,9 @@
 
 # Hi there, I'm George 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Python+%2B+TypeScript+Builder;Automation+and+Translation+Tooling;AI+Workflow+Tinkerer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&lines=Agentic+Builder;Automation+and+Translation+Tooling;Python+%2B+TypeScript+for+Useful+Things)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/kochangbok?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kochangbok)
+[![GitHub followers](https://img.shields.io/github/followers/kochangbok?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kochangbok?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/kochangbok?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/kochangbok?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=kochangbok&style=for-the-badge&color=blueviolet)](https://github.com/kochangbok)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Build
 
 <div align="center">
 
@@ -20,16 +20,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Localization](https://img.shields.io/badge/Korean_Localization-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white)
-
-*I build practical tools for translation, automation, and AI-powered workflows.* ⚙️✨
+![Localization](https://img.shields.io/badge/Localization-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Browser Tools](https://img.shields.io/badge/Browser_Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
 
+I build practical tools that remove repetitive work.
+
+- agent-friendly automation workflows
+- translation and localization tooling
+- browser utilities and small systems
+- experiments that are useful immediately, not someday
+
 ---
 
-## 📊 AI Usage Embed
+## 📊 AI Usage
 
 <div align="center">
 
@@ -48,13 +53,23 @@
 
 ---
 
+## 🧭 Coding Telemetry
+
+<div align="center">
+
+[![GitHub telemetry](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does |
 | --- | --- |
 | [translator-render](https://github.com/kochangbok/translator-render) | LLM reader-mode translation Chrome extension |
-| [MiroFish](https://github.com/kochangbok/MiroFish) | Universal swarm-intelligence engine for prediction experiments |
-| [mirofish-ko-oauthbridge](https://github.com/kochangbok/mirofish-ko-oauthbridge) | OAuth bridge project for Korean MiroFish workflows |
+| [MiroFish](https://github.com/kochangbok/MiroFish) | Swarm-intelligence engine for prediction experiments |
+| [mirofish-ko-oauthbridge](https://github.com/kochangbok/mirofish-ko-oauthbridge) | OAuth bridge for Korean MiroFish workflows |
 | [paperclip-ko](https://github.com/kochangbok/paperclip-ko) | Korean localization work for Paperclip UI |
 | [coupang-skill-linux](https://github.com/kochangbok/coupang-skill-linux) | Linux/OpenClaw-ready Coupang skill CLI |
 
@@ -84,33 +99,23 @@
 
 ---
 
+## 🎯 Current Focus
+
+```text
+🔭 Current build  Agent-friendly automation tools
+🌏 Side quest     Translation UX and Korean-localized tooling
+🧠 Exploring      AI coding workflows and developer productivity
+⚡ Philosophy     Build small, useful things and ship often
+```
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kochangbok)
 [![Tokscale](https://img.shields.io/badge/Tokscale-111827?style=for-the-badge&logo=openai&logoColor=white)](https://tokscale.ai/u/kochangbok)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-🔭 Current build  Automation and agent-friendly tooling
-🌏 Side quest     Translation UX and Korean-localized developer tools
-💬 Ask me about   Python, TypeScript, Codex, workflow automation
-⚡ Fun fact       I enjoy shipping small tools that remove repetitive work
-```
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
