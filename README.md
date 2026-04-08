@@ -1,4 +1,4 @@
-# Crypto arbitrage trader who can't code
+# Crypto arbitrage trader. Coding skills not included.
 
 ## AI token usage
 
