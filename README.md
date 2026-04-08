@@ -1,19 +1,19 @@
-# 코딩 할 줄 모르는 crypto arbitrage trader
+# Crypto arbitrage trader who can't code
 
 ## AI token usage
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/kochangbok/svg?sort=cost&compact=1)](https://tokscale.ai/u/kochangbok)
 
-## AI coding으로 번 돈
+## Realized PnL from AI coding
 
 ```text
-0달러
+$0
 ```
 
-## token ROI
+## Token ROI
 
 ```text
-0%
+spiritually negative
 ```
 
 ## Activity graph
