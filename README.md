@@ -1,81 +1,93 @@
 <div align="center">
 
-# Hi there, I'm George 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=George&fontSize=56&fontAlignY=38&desc=Agentic%20Builder%20%7C%20Automation%20%7C%20Translation%20Tooling&descAlignY=60&animation=fadeIn" alt="George banner" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&lines=Agentic+Builder;Automation+and+Translation+Tooling;Python+%2B+TypeScript+for+Useful+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=Turn+repetitive+work+into+tools;Ship+small%2C+useful+systems;Python+%2B+TypeScript+%2B+AI+workflows)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/kochangbok?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kochangbok?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/kochangbok?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/kochangbok?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=kochangbok&style=for-the-badge&color=blueviolet)](https://github.com/kochangbok)
+[![Tokscale](https://img.shields.io/badge/Tokscale-111827?style=for-the-badge&logo=openai&logoColor=white)](https://tokscale.ai/u/kochangbok)
 
 </div>
 
----
+## About Me
 
-## 🛠️ What I Build
+I build practical tools that make repetitive work disappear.
 
+- 🤖 Agent-friendly automation for real workflows
+- 🌏 Translation and localization tooling with a product mindset
+- 🧰 Browser, CLI, and small-system utilities that are useful immediately
+- 💬 Happy to talk about Codex, automation, translation UX, and developer tooling
+
+<details open>
+<summary><b>Agentic toolbox</b></summary>
+<br />
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Localization](https://img.shields.io/badge/Localization-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Browser Tools](https://img.shields.io/badge/Browser_Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=task&logoColor=white)
 
 </div>
+</details>
 
-I build practical tools that remove repetitive work.
+## Signal Dashboard
 
-- agent-friendly automation workflows
-- translation and localization tooling
-- browser utilities and small systems
-- experiments that are useful immediately, not someday
+<table>
+<tr>
+<td width="52%" valign="top">
 
----
-
-## 📊 AI Usage
-
-<div align="center">
+### 📊 AI Usage
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/kochangbok/svg?sort=cost&compact=1)](https://tokscale.ai/u/kochangbok)
+
+<sub>Public token and cost profile powered by Tokscale.</sub>
+
+</td>
+<td width="48%" valign="top">
+
+### 🧭 GitHub Telemetry
+
+[![GitHub telemetry](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+<sub>Repo-generated telemetry card for better reliability.</sub>
+
+</td>
+</tr>
+</table>
+
+## Selected Projects
+
+| Project | Focus | Why it matters |
+| --- | --- | --- |
+| [translator-render](https://github.com/kochangbok/translator-render) | Translation UX | Turns web content into an LLM-assisted reader-mode translation experience |
+| [MiroFish](https://github.com/kochangbok/MiroFish) | Experiments | A swarm-intelligence engine for prediction-oriented exploration |
+| [mirofish-ko-oauthbridge](https://github.com/kochangbok/mirofish-ko-oauthbridge) | Integration | OAuth bridge work for Korean MiroFish flows |
+| [paperclip-ko](https://github.com/kochangbok/paperclip-ko) | Localization | Korean localization work for Paperclip UI |
+| [coupang-skill-linux](https://github.com/kochangbok/coupang-skill-linux) | CLI tooling | Linux/OpenClaw-ready Coupang skill command line workflow |
+| [superset-setter](https://github.com/kochangbok/superset-setter) | Utilities | Small setup helper for Superset-flavored workflows |
 
 <details>
-<summary><b>GitHub embed snippet</b></summary>
+<summary><b>How I like to work</b></summary>
+<br />
 
-```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/kochangbok/svg?sort=cost&compact=1)](https://tokscale.ai/u/kochangbok)
+```text
+01. automate repetitive work first
+02. keep interfaces simple enough to be reused
+03. ship small, useful releases instead of huge plans
+04. treat translation/localization as product quality, not garnish
+05. measure what gets used and iterate from reality
 ```
 
 </details>
 
-</div>
-
----
-
-## 🧭 Coding Telemetry
-
-<div align="center">
-
-[![GitHub telemetry](images/userstats.svg)](https://github.com/cicirello/user-statistician)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does |
-| --- | --- |
-| [translator-render](https://github.com/kochangbok/translator-render) | LLM reader-mode translation Chrome extension |
-| [MiroFish](https://github.com/kochangbok/MiroFish) | Swarm-intelligence engine for prediction experiments |
-| [mirofish-ko-oauthbridge](https://github.com/kochangbok/mirofish-ko-oauthbridge) | OAuth bridge for Korean MiroFish workflows |
-| [paperclip-ko](https://github.com/kochangbok/paperclip-ko) | Korean localization work for Paperclip UI |
-| [coupang-skill-linux](https://github.com/kochangbok/coupang-skill-linux) | Linux/OpenClaw-ready Coupang skill CLI |
-
----
-
-## 📈 Contribution Graph
+## Activity
 
 <div align="center">
 
@@ -83,9 +95,7 @@ I build practical tools that remove repetitive work.
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -97,9 +107,7 @@ I build practical tools that remove repetitive work.
 
 </div>
 
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 🔭 Current build  Agent-friendly automation tools
@@ -108,9 +116,7 @@ I build practical tools that remove repetitive work.
 ⚡ Philosophy     Build small, useful things and ship often
 ```
 
----
-
-## 📬 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -122,8 +128,6 @@ I build practical tools that remove repetitive work.
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 *Build useful things, keep them simple, and ship them often.*
 
