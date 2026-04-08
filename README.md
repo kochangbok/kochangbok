@@ -38,6 +38,51 @@ Right now I’m exploring:
 </div>
 </details>
 
+## Retro Corner
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<b>Guestbook vibe</b>
+
+<br />
+<sub>A tiny old-web nod: if you stop by, feel free to say hi.</sub>
+
+<br /><br />
+
+<a href="https://github.com/kochangbok/kochangbok/issues/new?title=Guestbook%20hello&body=Hi%20George!%20I%20stopped%20by%20your%20profile.">
+  <img src="https://img.shields.io/badge/Say_hi_in_the_guestbook-ff69b4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Guestbook" />
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<b>Tiny web note</b>
+
+<br />
+<sub>I like a little retro-web energy as long as the projects stay real.</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/best_viewed_with-curiosity-1f222e?style=for-the-badge" alt="Best viewed with curiosity" />
+
+</td>
+</tr>
+</table>
+
+<pre>
++---------------------------------------+
+| hello traveler 👋                     |
+| i'm learning in public and building   |
+| small tools that solve real problems. |
++---------------------------------------+
+</pre>
+
+</div>
+
 ## Current Signals
 
 <table>
@@ -131,5 +176,11 @@ Right now I’m exploring:
 <div align="center">
 
 *Learning in public, building useful things, and getting a little better each time.*
+
+<br />
+
+<img src="https://img.shields.io/badge/made_with-curiosity-f4b400?style=flat-square" alt="made with curiosity" />
+<img src="https://img.shields.io/badge/learning_in_public-yes-1f6feb?style=flat-square" alt="learning in public" />
+<img src="https://img.shields.io/badge/no_frames-yes-00c853?style=flat-square" alt="no frames yes" />
 
 </div>
